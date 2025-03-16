@@ -651,7 +651,7 @@ color: #ffffff;
     fill: transparent;
 
 }
-.nw-chek-input:checked+.user-privacy .nw-form-span{
+.nw-chek-input:checked+.nw-chek-label .nw-form-span{
     background-color:#404bbf;
     border: none;
     fill:#F4F4FD;
