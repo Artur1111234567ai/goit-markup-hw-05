@@ -328,6 +328,9 @@ h2,h3{
         0px 2px 1px rgba(46, 47, 66, 0.08);
     
 }
+.port-list:hover .port-li-div-text{
+    transform: translateY(0%);
+}
 .port-li-div{
     position: relative;
     overflow: hidden;
